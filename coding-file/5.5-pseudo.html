@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .hover-text:hover {
+        background-color: lightblue;
+      }
+      .focus-text:focus {
+        color: blue;
+        font-weight: 900;
+      }
+      .visited-text:visited {
+        color: green;
+      }
+      li:first-child {
+        color: red;
+      }
+      p:last-child {
+        color: lime;
+      }
+      h6:nth-child(3n) {
+        color: orange;
+      }
+    </style>
+  </head>
+  <body>
+    <!--hover-->
+    <h1>Hover</h1>
+    <p class="hover-text">Hover over here</p>
+    <!--focus-->
+    <h1>Focus</h1>
+    <input type="text" />
+    <input type="text" class="focus-text" />
+    <input type="text" />
+    <!--visited-->
+    <h1>Visited</h1>
+    <a href="https://www.google.com/" class="visited-text">Google</a> <br />
+    <a href="https://www.facebook.com/" class="visited-text">Facebook</a> <br />
+    <a href="https://www.youtube.com/" class="visited-text">YouTube</a>
+    <!--first-child-->
+    <h1>first-child</h1>
+    <ul>
+      <li>text 1</li>
+      <li>text 2</li>
+      <li>text 3</li>
+    </ul>
+    <!--last-child-->
+    <h1>last-child</h1>
+    <ul>
+      <p>text 1</p>
+      <p>text 2</p>
+      <p>text 3</p>
+    </ul>
+    <!--nth-child-->
+    <h1>nth-child</h1>
+    <h6>text 1</h6>
+    <h6>text 2</h6>
+    <h6>text 3</h6>
+  </body>
+</html>

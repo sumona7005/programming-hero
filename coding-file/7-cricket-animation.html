@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .field{
+            background-color: lightgreen;
+            height: 400px;
+        }
+        .bat{
+            width: 300px;
+            transition: transform 0.5s ease-in;
+        }
+        .ball{
+            background-color: red;
+            width: 80px;
+            height: 80px;
+            border-radius: 40px;
+            position: relative;
+            left: 400px;
+            transition: transform 1s ease-out 0.5s;
+        }
+        .field:hover .bat{
+            transform: rotate(-60deg);
+            transform-origin: top right;
+        }
+        .field:hover .ball{
+            transform: translate(400px, -50px);
+        }
+    </style>
+</head>
+<body>
+<div class="field">
+    <img src="https://cdn-icons-png.flaticon.com/128/3439/3439653.png" alt="" class="bat">
+    <div class="ball"></div>
+</div>
+</body>
+</html>

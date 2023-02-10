@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      #main-menu {
+        display: flex;
+        justify-content: center;
+      }
+      li {
+        list-style: none;
+        background-color: lightblue;
+        padding: 10px 30px;
+        margin: 20px;
+      }
+      a {
+        text-decoration: none;
+      }
+      li:hover {
+        background-color: orangered;
+      }
+      li:hover a {
+        color: white;
+      }
+      #dropdown {
+        display: none;
+      }
+      #category:hover #dropdown {
+        display: block;
+        position: absolute;
+      }
+    </style>
+  </head>
+  <body>
+    <nav>
+      <ul id="main-menu">
+        <li><a href="">Home</a></li>
+        <li><a href="">About</a></li>
+        <li id="category">
+          <a href=""
+            >Category
+            <ul id="dropdown">
+              <li><a href=""></a>A</li>
+              <li><a href=""></a>B</li>
+              <li><a href=""></a>C</li>
+              <li><a href=""></a>D</li>
+            </ul>
+          </a>
+        </li>
+        <li><a href="">Contact</a></li>
+      </ul>
+    </nav>
+  </body>
+</html>
