@@ -30,6 +30,8 @@ This repo contains all the files related to [Programming Hero](https://web.progr
   - Module 5 → [donate today](https://github.com/sumona7005/donate-today) - Assignment 1
   - [Module 5.5](https://github.com/sumona7005/programming-hero/blob/main/main-module/module-5.5.md) → Bonus: box model, pseudo class, position
 - **Milestone 2**
+  - [Module 6](https://github.com/sumona7005/programming-hero/blob/main/main-module/module-6.md)
+  - [Module 7](https://github.com/sumona7005/programming-hero/blob/main/main-module/module-7.md)
 
 ### Conceptual Session
 
