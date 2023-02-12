@@ -33,6 +33,7 @@ This repo contains all the files related to [Programming Hero](https://web.progr
   - [Module 6](https://github.com/sumona7005/programming-hero/blob/main/main-module/module-6.md) → Semantic, Audio, Video, Table, Form
   - [Module 7](https://github.com/sumona7005/programming-hero/blob/main/main-module/module-7.md) → Icon, Animation
   - [Module 8](https://github.com/sumona7005/programming-hero/blob/main/main-module/module-8.md) → Responsive CSS Layout
+  - Module 9 → [leader board](https://github.com/sumona7005/leader-board)
 
 ### Conceptual Session
 
