@@ -26,7 +26,7 @@ This repo contains all the files related to [Programming Hero](https://web.progr
   - [Module 2](https://github.com/sumona7005/programming-hero/blob/main/main-module/module-2.md) → CSS for beginners
   - [Module 3](https://github.com/sumona7005/programming-hero/blob/main/main-module/module-3.md) → Git and GitHub
   - Module 4 → [developer portfolio](https://github.com/sumona7005/developer-portfolio)
-  - Module 4.5 → [eat healthy](https://github.com/sumona7005/eat-healthy)
+  - Module 4.5 → [eat healthy](https://github.com/sumona7005/eat-healthy) - practice day
   - Module 5 → [donate today](https://github.com/sumona7005/donate-today) - Assignment 1
   - [Module 5.5](https://github.com/sumona7005/programming-hero/blob/main/main-module/module-5.5.md) → Bonus: box model, pseudo class, position
 - **Milestone 2**
@@ -34,6 +34,7 @@ This repo contains all the files related to [Programming Hero](https://web.progr
   - [Module 7](https://github.com/sumona7005/programming-hero/blob/main/main-module/module-7.md) → Icon, Animation
   - [Module 8](https://github.com/sumona7005/programming-hero/blob/main/main-module/module-8.md) → Responsive CSS Layout
   - Module 9 → [leader board](https://github.com/sumona7005/leader-board)
+  - Module 9.5 → [influencer gears](https://github.com/sumona7005/influencer-gears) - practice day
 
 ### Conceptual Session
 
